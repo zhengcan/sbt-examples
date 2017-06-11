@@ -1,0 +1,10 @@
+.idea
+multi-projects/project/target
+multi-projects/sub-project-1/node_modules
+multi-projects/sub-project-1/target
+multi-projects/sub-project-2/target
+multi-projects/target
+resolver-for-snapshot/project/target
+resolver-for-snapshot/target
+project/target
+target
